@@ -1,1 +1,25 @@
-This file is useless
+herpderp for irssi
+
+Randomly replaces text sent by people/to channels in a list with nonsense words like "herp" and "derp"
+Do you find someone annoying? Why use IGNORE when you can use herpderp.pl and let them amuse you!
+
+author:  neofreak@irc.ptnet.org
+ email: igotbugs@ticklemynausea.net 
+   web: http://www.ticklemynausea.net
+
+                    ,,__
+          ..  ..   / o._)                   .---.
+         /--'/--\  \-'||        .----.    .'     '.
+        /        \_/ / |      .'      '..'         '-.
+      .'\  \__\  __.'.'     .'          ì-._
+        )\ |  )\ |      _.'
+       // \\ // \\
+      ||_  \\|_  \\
+      '--' '--'' '--'
+
+
+Usage:
+/herp list                : show a list of all nicks in the herpderp list
+/herp add [nick|#channel] : adds a nickname/channel to the herpderp list
+/herp del [nick|#channel] : removes a nickname/channel from the herpderp list
+/herp all                 : toggles herpderping all incoming messages
