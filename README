@@ -1,1 +1,13 @@
-This file is useless
+License: GPL
+herp.pl uses parts of watch.pl (http://scripts.irssi.org)
+
+Randomly replaces text sent by people/to channels in a list with nonsense words like "herp" and "derp"
+Why use IGNORE when you can use HERP.PL and make them look even more retarded?
+
+/herp in irssi for usage
+
+/herp list - lists all derped channels and nicknames
+/herp add <nick> - adds a nickname or channel
+/herp del <nick> - removes a nickname from the list
+/herp all - toggles herping of all names
+Herp a derp derp feedback emailoftheyear[herp]gmail[derp]com
